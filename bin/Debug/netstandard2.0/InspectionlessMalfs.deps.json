@@ -10,7 +10,7 @@
       "InspectionlessMalfs/1.0.0": {
         "dependencies": {
           "BepInEx.Analyzers": "1.0.8",
-          "BepInEx.Core": "5.4.19",
+          "BepInEx.Core": "5.4.21",
           "BepInEx.PluginInfoProps": "1.1.0",
           "NETStandard.Library": "2.0.3",
           "UnityEngine.Modules": "3.4.0",
@@ -25,17 +25,17 @@
         }
       },
       "BepInEx.Analyzers/1.0.8": {},
-      "BepInEx.BaseLib/5.4.19": {
+      "BepInEx.BaseLib/5.4.20": {
         "runtime": {
           "lib/netstandard2.0/BepInEx.dll": {
-            "assemblyVersion": "5.4.19.0",
-            "fileVersion": "5.4.19.0"
+            "assemblyVersion": "5.4.20.0",
+            "fileVersion": "5.4.20.0"
           }
         }
       },
-      "BepInEx.Core/5.4.19": {
+      "BepInEx.Core/5.4.21": {
         "dependencies": {
-          "BepInEx.BaseLib": "5.4.19",
+          "BepInEx.BaseLib": "5.4.20",
           "HarmonyX": "2.7.0"
         }
       },
@@ -445,19 +445,19 @@
       "path": "bepinex.analyzers/1.0.8",
       "hashPath": "bepinex.analyzers.1.0.8.nupkg.sha512"
     },
-    "BepInEx.BaseLib/5.4.19": {
+    "BepInEx.BaseLib/5.4.20": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-gwP3NK0WL5E+U/L0FMrygiDDNzEL4TYnezy+S7ocbUUhkhty3ueG5BRsKdKdra/2R3vWopf42CoA+MnnEmSY+w==",
-      "path": "bepinex.baselib/5.4.19",
-      "hashPath": "bepinex.baselib.5.4.19.nupkg.sha512"
+      "sha512": "sha512-0bXgYxbCEN2Ixp3kiFEhyw+RASeFQeg/ww+lbMt7if6XMeVS60eg6epNsMA8Jbx57dmNOzNevkKKw8mP8SUMqw==",
+      "path": "bepinex.baselib/5.4.20",
+      "hashPath": "bepinex.baselib.5.4.20.nupkg.sha512"
     },
-    "BepInEx.Core/5.4.19": {
+    "BepInEx.Core/5.4.21": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2/eY1qT2LaVO36G91LWo2yNLwmEEODKoC8IpePyA5WP2eGrrMvGxxLC9v4OPmX3IT8q1G4SYzKDL3ziZRQVUWg==",
-      "path": "bepinex.core/5.4.19",
-      "hashPath": "bepinex.core.5.4.19.nupkg.sha512"
+      "sha512": "sha512-NMUPlbHTTfJ+qIQCI90uIvjuUQ4wnwt4cpRsK3ItBh1DhsWFzAHXNiZjBxZkPysljEKQ2iu89sxMTga4bxBXVQ==",
+      "path": "bepinex.core/5.4.21",
+      "hashPath": "bepinex.core.5.4.21.nupkg.sha512"
     },
     "BepInEx.PluginInfoProps/1.1.0": {
       "type": "package",

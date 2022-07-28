@@ -5,7 +5,7 @@
       "BepInEx.Analyzers/1.0.8": {
         "type": "package"
       },
-      "BepInEx.BaseLib/5.4.19": {
+      "BepInEx.BaseLib/5.4.20": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/BepInEx.dll": {}
@@ -14,10 +14,10 @@
           "lib/netstandard2.0/BepInEx.dll": {}
         }
       },
-      "BepInEx.Core/5.4.19": {
+      "BepInEx.Core/5.4.21": {
         "type": "package",
         "dependencies": {
-          "BepInEx.BaseLib": "5.4.19",
+          "BepInEx.BaseLib": "5.4.20",
           "HarmonyX": "2.7.0"
         },
         "compile": {
@@ -518,27 +518,27 @@
         "tools/uninstall.ps1"
       ]
     },
-    "BepInEx.BaseLib/5.4.19": {
-      "sha512": "gwP3NK0WL5E+U/L0FMrygiDDNzEL4TYnezy+S7ocbUUhkhty3ueG5BRsKdKdra/2R3vWopf42CoA+MnnEmSY+w==",
+    "BepInEx.BaseLib/5.4.20": {
+      "sha512": "0bXgYxbCEN2Ixp3kiFEhyw+RASeFQeg/ww+lbMt7if6XMeVS60eg6epNsMA8Jbx57dmNOzNevkKKw8mP8SUMqw==",
       "type": "package",
-      "path": "bepinex.baselib/5.4.19",
+      "path": "bepinex.baselib/5.4.20",
       "files": [
         ".nupkg.metadata",
-        "bepinex.baselib.5.4.19.nupkg.sha512",
+        "bepinex.baselib.5.4.20.nupkg.sha512",
         "bepinex.baselib.nuspec",
         "images/icon.png",
         "lib/net35/BepInEx.dll",
         "lib/netstandard2.0/BepInEx.dll"
       ]
     },
-    "BepInEx.Core/5.4.19": {
-      "sha512": "2/eY1qT2LaVO36G91LWo2yNLwmEEODKoC8IpePyA5WP2eGrrMvGxxLC9v4OPmX3IT8q1G4SYzKDL3ziZRQVUWg==",
+    "BepInEx.Core/5.4.21": {
+      "sha512": "NMUPlbHTTfJ+qIQCI90uIvjuUQ4wnwt4cpRsK3ItBh1DhsWFzAHXNiZjBxZkPysljEKQ2iu89sxMTga4bxBXVQ==",
       "type": "package",
-      "path": "bepinex.core/5.4.19",
+      "path": "bepinex.core/5.4.21",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
-        "bepinex.core.5.4.19.nupkg.sha512",
+        "bepinex.core.5.4.21.nupkg.sha512",
         "bepinex.core.nuspec",
         "build/BepInEx.Core.targets",
         "images/icon.png",
@@ -2502,14 +2502,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SP EFT\\Realism Mod\\module mods\\InspectionlessMalfs\\InspectionlessMalfs\\InspectionlessMalfs.csproj",
+      "projectUniqueName": "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\InspectionlessMalfs.csproj",
       "projectName": "InspectionlessMalfs",
-      "projectPath": "D:\\SP EFT\\Realism Mod\\module mods\\InspectionlessMalfs\\InspectionlessMalfs\\InspectionlessMalfs.csproj",
+      "projectPath": "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\InspectionlessMalfs.csproj",
       "packagesPath": "C:\\Users\\Hal31\\.nuget\\packages\\",
-      "outputPath": "D:\\SP EFT\\Realism Mod\\module mods\\InspectionlessMalfs\\InspectionlessMalfs\\obj\\",
+      "outputPath": "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\SP EFT\\Realism Mod\\module mods\\InspectionlessMalfs\\InspectionlessMalfs\\NuGet.Config",
+        "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\NuGet.Config",
         "C:\\Users\\Hal31\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

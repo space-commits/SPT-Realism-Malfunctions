@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NjmFAx0m1h9t5BZICV2La3Smi6HmN6Jem4d9sVVvv64bdz6Y39Ia5vPNcX2XZJjpwHkH5NVruLyfiSnSxZX/xQ==",
+  "dgSpecHash": "BgdvQX/2NMiXovf0fiZsaYl9fce7N9J/62ywvA6gQz04xFffmHJHQL+ZU1kcBnpK09e5DAKhAZWbrJOHv+59rw==",
   "success": true,
-  "projectFilePath": "D:\\SP EFT\\Realism Mod\\module mods\\InspectionlessMalfs\\InspectionlessMalfs\\InspectionlessMalfs.csproj",
+  "projectFilePath": "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\InspectionlessMalfs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
-    "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.baselib\\5.4.19\\bepinex.baselib.5.4.19.nupkg.sha512",
-    "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.core\\5.4.19\\bepinex.core.5.4.19.nupkg.sha512",
+    "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
     "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
     "C:\\Users\\Hal31\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
     "C:\\Users\\Hal31\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
