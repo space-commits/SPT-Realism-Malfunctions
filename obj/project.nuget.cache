@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BgdvQX/2NMiXovf0fiZsaYl9fce7N9J/62ywvA6gQz04xFffmHJHQL+ZU1kcBnpK09e5DAKhAZWbrJOHv+59rw==",
+  "dgSpecHash": "B9WwAAIS50QsyEHS3OgFxHvwsbMsAr7nasSCm5fQJqOmv5KI+amX1APknvsioAykYHktJ23O3dvqwpYy2gbmyQ==",
   "success": true,
-  "projectFilePath": "D:\\SP EFT\\Realism Mod\\module mods\\SPT-Realism-Malfunctions\\InspectionlessMalfs.csproj",
+  "projectFilePath": "D:\\SP EFT\\Realism Mod\\Client Mods\\SPT-Realism-Malfunctions\\InspectionlessMalfs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\Hal31\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
