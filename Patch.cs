@@ -1,8 +1,8 @@
 using System;
 using System.Reflection;
-using SPT.Reflection.Patching;
-using HarmonyLib;
-using static EFT.InventoryLogic.Weapon;
+using Aki.Reflection.Patching;
+using EFT.InventoryLogic;
+using KnowMalfClass = EFT.InventoryLogic.Weapon.GClass2742;
 
 namespace InspectionlessMalfs
 {
@@ -10,9 +10,8 @@ namespace InspectionlessMalfs
 	{
 		protected override MethodBase GetTargetMethod()
 		{
-			return AccessTools.Method(typeof(WeaponMalfunctionStateClass), nameof(WeaponMalfunctionStateClass.IsKnownMalfType));
+			return typeof(KnowMalfClass).GetMethod("IsKnownMalfType", BindingFlags.Instance | BindingFlags.Public);
 		}
-
 		[PatchPostfix]
 		private static void PatchPostfix(ref bool __result)
 		{
